@@ -36,21 +36,25 @@ I'm an AI graduate from **FAST NUCES Karachi**, building production AI systems �
 
 ### 🌟 Featured Projects
 
-**🛡️ [Enterprise GRC Automation Platform](https://github.com/AizazUsman171)**
-AI-driven compliance platform generating ISO 27001, NIST CSF, and GDPR documentation. Automated gap analysis reduced manual audit prep by **80%**.
-`Python` `FastAPI` `OpenAI` `PyMuPDF`
+**🛡️ [Enterprise GRC Audit AI Automation Engine](https://github.com/AizazUsman171/Enterprise-GRC-Audit-AI-Automation-Engine)**
+AI-driven compliance platform generating ISO 27001, NIST CSF, and GDPR documentation across 12+ regulatory document types.
+`Python` `FastAPI` `OpenAI` `Pydantic`
 
-**🚗 [Automotive Document Intelligence Platform](https://github.com/AizazUsman171)**
+**📋 [AI GRC Compliance Gap Analysis Engine](https://github.com/AizazUsman171/AI--GRC-Compliance-Gap-Analysis-Engine)**
+Policy extraction engine that detects compliance deficiencies against regulatory standards, cutting manual audit prep by **80%**.
+`PyMuPDF` `python-docx` `OpenAI`
+
+**🚗 [Automotive Document Intelligence Platform](https://github.com/AizazUsman171/Enterprise-Automotive-CSR-Document-Intelligence-Platform)**
 RAG system for a German automotive client (Mercedes, BMW, Volvo) to search thousands of CSR/regulatory clauses with citation-tracked, source-linked answers.
 `LangChain` `FAISS` `OpenAI GPT-4` `Flask`
 
-**🔐 [AI Vendor Cybersecurity Risk Engine](https://github.com/AizazUsman171)**
+**🔐 [AI Vendor Cybersecurity Risk Automation](https://github.com/AizazUsman171/AI-Vendor-Cybersecurity-Risk-Automation)**
 Automated OSINT + LLM pipeline that turns unstructured web data into structured vendor risk assessments and dashboards.
 `Flask` `Perplexity AI` `LangChain`
 
-**🚦 [AI Traffic Surveillance & Violation Detection](https://github.com/AizazUsman171)**
-Real-time ANPR and multi-violation detection (helmet, seatbelt, speed, lane change) using YOLOv8, EasyOCR, and SORT tracking.
-`YOLOv8` `OpenCV` `EasyOCR`
+**📄 [AI Document Security Classification Engine](https://github.com/AizazUsman171/AI-Document-Security-Classification-Engine)**
+Intelligent document-processing system that classifies enterprise documents and routes them through secure, automated workflows.
+`Python` `LLMs` `Flask` `REST API`
 
 <p align="center"><i>More projects on my <a href="https://github.com/AizazUsman171?tab=repositories">repositories page →</a></i></p>
 
